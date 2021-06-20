@@ -1,6 +1,6 @@
-# A FLUTTER PACKAGE TO DEAL WITH SFTP 
-it is capable to access files by sftp and also can stream image, audio, video
-it also support network headers
-fully customizable
+# sftp_explorer_and_streaming
 
-created by Mohammad Arshad
+#### quick setup
+![quick setup](https://i.imgur.com/kTqmmYZ.jpg)
+
+[see the demo](https://drive.google.com/file/d/110NHxPzfdnrS6fRpwq41Hv0k3iTMw9uk/view?usp=sharing)

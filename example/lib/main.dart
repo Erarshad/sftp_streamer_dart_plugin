@@ -28,7 +28,7 @@ class ts extends StatefulWidget {
 
 class _tsState extends State<ts> {
   Map<String, String> headers = {
-    "X-QR-AUTH": "jgngsydnlopsns..." // put your headers
+    "any_auth": "jgngsydnlopsns..." // put your headers
   };
   // in case of no header please pass empty map
   @override

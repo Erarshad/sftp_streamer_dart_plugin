@@ -1,6 +1,6 @@
 name: sftp_explorer_and_streaming
 description: a package that give ability to explore file and stream by sftp.
-version: 0.0.1
+version: 0.0.2
 author: Mohammad Arshad
 homepage: https://erarshad.github.io
 
